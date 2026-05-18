@@ -9,7 +9,7 @@
 ## Before You Start
 
 **What you need:**
-- Access to `kaleida-dev-vm1.trendops.co` via VPN or corporate network
+- Access to Kaleida via VPN or corporate network
 - Trend Micro Google Workspace account (SSO login)
 - The 6 test pages pushed to GitHub Pages (`meiyor13.github.io/openclaw-test/`)
 - Kaleida open and logged in on your browser
